@@ -1,4 +1,3 @@
-document.addEventListener('DOMContentLoaded', function() {
     const commentList = document.getElementById('comment-list');
     const firstNameInput = document.getElementById('first-name');
     const lastNameInput = document.getElementById('last-name');
